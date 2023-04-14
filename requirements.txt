@@ -1,5 +1,8 @@
 numpy~=1.22
 opencv-python~=4.5.1.48
 torch~=1.7.1
-torchvision~=0.2.2.post3
+torchvision==0.2.2.post3
 Pillow~=6.2.2
+Flask~=2.1.1
+Flask-Cors~=3.0.10
+Werkzeug~=2.1.1
